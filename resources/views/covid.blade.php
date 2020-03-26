@@ -7,7 +7,7 @@
 
         <div class="container" style="background-color: white">
             <nav class="navbar navbar-dark bg-primary">
-                <a class="navbar-brand" href="#">Pangkalanbun-Dev creted with &hearts;</a>
+                <a class="navbar-brand" href="#">Pangkalanbun-Dev created with &hearts;</a>
             </nav>
             <div class="jumbotron">
                 <h1 class="display-4">Informasi Kasus Corona virus(covid-19) Indonesia</h1>
